@@ -2,10 +2,6 @@
 
 A platform for developers to connect. They can create their portofolio by adding their experience, education, skills and other important information of their professional career.
 
-Users can also create small posts and like/dislike and comment on other posts.
-
-Live link: <a href="https://devnwk.herokuapp.com/" target="_blank"> Click here</a>
-
 <img src="client/src/img/homepage.png">
 
 ---
@@ -81,26 +77,6 @@ npm run build
 # deploy code to heroku
 git push heroku master:master
 ```
-
-<img src="client/src/img/overallprofile.png">
-
----
-
-<img src="client/src/img/dashboard.png">
-
----
-
-<img src="client/src/img/devlist.png">
-
----
-
-<img src="client/src/img/posts.png">
-
----
-
-<img src="client/src/img/form1.png">
-
----
 
 ## Main Technologies
 
